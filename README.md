@@ -1,6 +1,4 @@
-
-
-#PLOTS
+# PLOTS
 
 
 <table style="border: 1px solid black;">
